@@ -2,6 +2,8 @@
 
 This is my attempt at a Nord theme for Mailspring. Work in progress.
 
+![screenshot](/screenshot/nord-mailspring.png)
+
 ## Install
 
 1. Download or clone this repository.
