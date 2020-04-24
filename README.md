@@ -1,6 +1,8 @@
 # Mailspring Nord Theme
 
-This is my attempt at a Nord theme for Mailspring. Work in progress.
+This is my attempt at a Nord theme for Mailspring. Work in progress. Based on the [Nord](https://www.nordtheme.com/) color scheme.
+
+![screenshot](/screenshot/nord-mailspring.png)
 
 ## Install
 
