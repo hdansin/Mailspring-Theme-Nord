@@ -1,10 +1,9 @@
 .ignore-in-parent-frame {
   body {
-    filter: invert(1) brightness(2.1) contrast(0.7) sepia(0.5) hue-rotate(184deg);
+    -webkit-filter: invert(1) hue-rotate(180deg);
     color: #111;
   }
   img {
-     /* I am not actually sure about this line - undoing the transform above might require running the steps in the reverse order, so hute-rotate, then sepia, etc. and the image may not look exactly the same because the steps are lossy... */
-    filter: invert(-1) brightness(-2.1) contrast(-0.7) sepia(-0.5) hue-rotate(-184deg);
+    -webkit-filter: invert(1) hue-rotate(180deg);
   }
 }
